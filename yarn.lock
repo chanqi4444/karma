@@ -1377,9 +1377,9 @@ coffee-script@~1.10.0:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/coffee-script/-/coffee-script-1.10.0.tgz#12938bcf9be1948fa006f92e0c4c9e81705108c0"
 
-coffeescript@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/coffeescript/-/coffeescript-2.0.2.tgz#065702a484b46194b8c7eb08481e6d4dc38b87c9"
+coffeescript@^1.12.7:
+  version "1.12.7"
+  resolved "https://registry.yarnpkg.com/coffeescript/-/coffeescript-1.12.7.tgz#e57ee4c4867cf7f606bfc4a0f2d550c0981ddd27"
 
 color-convert@^1.9.0:
   version "1.9.1"
